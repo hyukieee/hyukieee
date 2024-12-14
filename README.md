@@ -12,7 +12,9 @@ Welcome to my GitHub.😎
 <hr>
 <h2 align="center">Contact Me!📥</h2><br>
 <div align="center"><img src="https://img.shields.io/badge/bluemh24@inu.ac.kr-white?style=flat&logo=Gmail"/></a>
-<a href="https://velog.io/@hyukieee"><img src="https://img.shields.io/badge/hyukieee's%20velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hyukieee"/></a><br>
+<a href="https://velog.io/@hyukieee"><img src="https://img.shields.io/badge/hyukieee's%20velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hyukieee"/></a>
+ <a href="https://www.instagram.com/hyukie__e">
+		<img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <div align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a><br>
