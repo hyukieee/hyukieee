@@ -27,9 +27,9 @@ Welcome to my GitHub.&nbsp; <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wa
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/hyukieee" width="300" height="300" style="margin-right: 20px;" />
+    <img src="https://render.gitanimals.org/farms/hyukieee" width="450" height="300" style="margin-right: 20px;" />
   </a>
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="300" height="300" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="450" height="300" />
 </div>
 
 
