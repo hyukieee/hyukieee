@@ -33,3 +33,5 @@ Welcome to my GitHub.&nbsp; <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wa
   height="300"
 />
 </a>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
