@@ -1,11 +1,11 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=88A3C9&height=250&section=header&text=Welcome!%20&fontSize=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=88A3C9&height=250&section=header&text=Welcome!%20&fontSize=70) -->
 
 <h1 align="center"> 🧑‍💻 About Me </h1> <br>
 
-Welcome to my GitHub.😎
+Welcome to my GitHub.&nbsp; <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif"  width="35px" />
 * I'm studying in the department of Computer Science at Incheon National Univ.
 * I'm interested in AI, Computer vision 💻
 <br>
