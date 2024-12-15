@@ -25,13 +25,11 @@ Welcome to my GitHub.&nbsp; <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wa
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></a>    </div>
 <br>
 
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/hyukieee" width="300" height="300" style="margin-right: 20px;" />
+  </a>
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="300" height="300" />
+</div>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/hyukieee"
-  width="600"
-  height="300"
-/>
-</a>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
