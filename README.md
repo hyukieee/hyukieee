@@ -30,8 +30,9 @@ Welcome to my GitHub.&nbsp; <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wa
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=655623762877211659" width="150" height="300" style="margin-right: 20px;" />
+    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=655509735702388264" width="150" height="300" style="margin-right: 20px;" 
   </a>
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="650" height="300" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="500" height="300" />
 </div>
 
 
