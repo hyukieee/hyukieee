@@ -25,16 +25,24 @@ Welcome to my GitHub.&nbsp; <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wa
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></a>    </div>
 <br>
 
-
   
 <div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=655623762877211659" width="100" height="300" style="margin-right: 20px;" />
-    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=655509735702388264" width="100" height="300" style="margin-right: 20px;" />
-    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=656827623990220151" width="100" height="300" style="margin-right: 20px;" />
-
-  </a>
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="500" height="300" />
-</div>
+<table>
+<tr>
+    <td>
+	<a href="https://github.com/devxb/gitanimals">
+	    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=655623762877211659" width="300" height="150" style="margin-right: 20px;" />
+	<br>
+	    <!--<img src="https://render.gitanimals.org/lines/hyukieee?pet-id=655509735702388264" width="300" height="150" style="margin-right: 20px;" /> -->
+	    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=656827623990220151" width="300" height="150" style="margin-right: 20px;" />
+      </a>
+    </td>
+    <td>
+      <div>
+	<img src="./profile-3d-contrib/profile-gitblock.svg" width="500" height="300" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 
