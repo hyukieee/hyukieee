@@ -11,7 +11,7 @@ Welcome to my GitHub.&nbsp; <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wa
 <br>
 <hr>
 <h2 align="center">Contact Me!📥</h2><br>
-<div align="center"><img src="https://img.shields.io/badge/bluemh24@inu.ac.kr-white?style=flat&logo=Gmail"/></a>
+<div align="center">
 <a href="https://velog.io/@hyukieee"><img src="https://img.shields.io/badge/hyukieee's%20velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hyukieee"/></a>
  <a href="https://www.instagram.com/hyukie__e">
 		<img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"><br>
