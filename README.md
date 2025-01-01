@@ -32,15 +32,15 @@ Welcome to my GitHub.&nbsp; <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wa
 <tr>
     <td>
 	<a href="https://github.com/devxb/gitanimals">
-	    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=657546812229019793" width="300" height="150" style="margin-right: 20px;" />
+	    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=657546812229019793" width="200" height="100" style="margin-right: 20px;" />
 	<br>
-	<img src="https://render.gitanimals.org/lines/hyukieee?pet-id=655509735702388264" width="300" height="150" style="margin-right: 20px;" /> 
-	    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=656827623990220151" width="300" height="150" style="margin-right: 20px;" />
+	<img src="https://render.gitanimals.org/lines/hyukieee?pet-id=655509735702388264" width="200" height="100" style="margin-right: 20px;" /> 
+	    <img src="https://render.gitanimals.org/lines/hyukieee?pet-id=656827623990220151" width="200" height="100" style="margin-right: 20px;" />
       </a>
     </td>
     <td>
       <div>
-	<img src="./profile-3d-contrib/profile-gitblock.svg" width="500" height="300" />
+	<img src="./profile-3d-contrib/profile-gitblock.svg" width="650" height="300" />
       </div>
     </td>
   </tr>
